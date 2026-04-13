@@ -1,4 +1,4 @@
-# Oscorp Capstone — Jiran Inventory Intelligence
+# Oscorp Capstone — Jiran 
 
 AI-powered inventory management system with stock status prediction, transfer recommendations, and restock alerts across multiple store locations.
 
