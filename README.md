@@ -1,6 +1,6 @@
 # Oscorp Capstone — Jiran Inventory Intelligence
 
-AI-powered inventory management system with stock status prediction, transfer recommendations, and restock alerts across multiple store locations.
+AI-powered inventory management system with stock status prediction, transfer recommendations across multiple store locations.
 
 > **University capstone project** — credentials are included, no setup required.
 
